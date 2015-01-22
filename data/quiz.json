@@ -1,0 +1,33 @@
+[
+	{
+		"question": "In what year did the New York Subway system begin operation?",
+		"choices": ["1934", "1968", "1889", "1904"],
+		"answer": "1904"
+	},
+
+	{
+		"question": "Which pop start was recently named New York City's new Global Welcome Ambassador for tourism?",
+		"choices": ["Nicki Minaj", "Taylor Swift", "Katy Perry", "Justin Bieber"],
+		"answer": "Taylor Swift"
+	},
+
+	{
+		"question": "What is the name of the bike sharing system in NYC?",
+		"choices": ["Citibike", "Munibike", "BikeShareNYC", "Chasebike"],
+		"answer": "Citibike"
+	},
+
+	{
+		"question": "In which Manhattan neighborhood is Gracie Mansion, the official residence of the New York City Mayor, located?",
+		"choices": ["Chelsea", "Upper West Side", "the Civic Center", "Upper East Side"],
+		"answer": "Upper East Side"
+
+	},
+
+	{
+		"question": "What is the current speed limit for New York City streets?",
+		"choices": ["15mph", "20mph", "25mph", "30mph"],
+		"answer": "25mph"
+	}
+]
+
